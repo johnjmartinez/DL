@@ -18,5 +18,12 @@ http://uc-r.github.io/predictive
 ### 1. MIT 6.S191 Intro to DL:  
 Course page is [here](http://introtodeeplearning.com/).  The slides and videos are available.
 
+|**Class**        | **Topic**                           | **Date**                             |
+| :---------------| :---------------------------------- | :----------------------------------- |
+| 1               | Intro to DL | Deep seqence modeling |  Lecture 1/2: done by March          |
+| 2               | Deep Computer vision                |  Lecture 1 - done by April, 15th     |
+
+
+
 ### 2. Stanford CS230 Deep Learning  
 [The lecture](http://cs230.stanford.edu/) was publicly released on April 2019. The lecture video is [here](http://onlinehub.stanford.edu/cs230).
