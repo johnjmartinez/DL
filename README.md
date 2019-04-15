@@ -18,10 +18,12 @@ http://uc-r.github.io/predictive
 ### 1. MIT 6.S191 Intro to DL:  
 Course page is [here](http://introtodeeplearning.com/).  The slides and videos are available.
 
-|**Class**        | **Topic**                                | **Link**      |**Date**                             |
-| :---------------| :--------------------------------------- | ------------- |:----------------------------------- |
-| 1               | Intro to DL / Deep seqence modeling      |  [Part1](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) [Part2](https://www.youtube.com/watch?v=_h66BW-xNgk&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)              | Lecture 1/2: done by March          |
-| 2               | Deep Computer vision / Generative Models |               | Lecture 1 - done by April, 15th     |
+|**Class**        | **Topic**                      |               | **Link**      |**Date**             | 
+| :-----| :--------------------------------------- | ------------- |:----------------------------------- |
+| 1-1   | Intro to DL            |  [Part1](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    | By March, 2019     |
+| 1-2   | Deep sequence modeling | [Part2](https://www.youtube.com/watch?v=_h66BW-xNgk&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 
+| By March, 2019     | 
+| 2-1   | Deep Computer vision   |               | By April, 15th     |
 
 
 
