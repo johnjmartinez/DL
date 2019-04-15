@@ -20,9 +20,9 @@ Course page is [here](http://introtodeeplearning.com/).  The slides and videos a
 
 |**Class**   | **Topic**                      | **Link**      |**Date**                             | 
 | :----------| :----------------------------- | ------------- |:----------------------------------- |
-| 1-1   | Intro to DL            |  [Part1](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    | By March, 2019     |
+| 1-1   | Intro to DL            |  [Part1](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    | By March, 2019
 | 1-2   | Deep sequence modeling | [Part2](https://www.youtube.com/watch?v=_h66BW-xNgk&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 
-  By March, 2019   | 
+|  By March, 2019 
 | 2-1   | Deep Computer vision   |               | By April, 15th     |
 
 
