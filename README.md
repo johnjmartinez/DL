@@ -5,6 +5,7 @@ This repo archives useful info for deep learning.
 ### 1. Deep learning with R  
 The manning provides tutorials related to the textbook.  
 Video: https://www.manning.com/livevideo/deep-learning-with-r-in-motion  
+Rmd repo: https://github.com/jjallaire/deep-learning-with-r-notebooks 
 
 ### 2. Dive into Deep Learning
 The textbook became publicly released on January 2019. The PDF is available from the below link.
