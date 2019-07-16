@@ -34,3 +34,8 @@ Course page is [here](http://introtodeeplearning.com/).  The slides and videos a
 
 ### 3. Fastai
 https://course.fast.ai/index.html
+
+### 4. Spring 2019 Full Stack Deep Learning Bootcamp  
+Video: https://fullstackdeeplearning.com/march2019
+
+
