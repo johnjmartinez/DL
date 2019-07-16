@@ -29,7 +29,8 @@ Course page is [here](http://introtodeeplearning.com/).  The slides and videos a
 | 2-1   | Deep Computer vision   | [Part1](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    | By April, 15th  |
 | 2-2   | Deep Generating Model   | [Part2](https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    | By July, 1st  |
 
-
-
 ### 2. Stanford CS230 Deep Learning  
 [The lecture](http://cs230.stanford.edu/) was publicly released on April 2019. The lecture video is [here](http://onlinehub.stanford.edu/cs230).
+
+### 3. Fastai
+https://course.fast.ai/index.html
