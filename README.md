@@ -38,4 +38,7 @@ https://course.fast.ai/index.html
 ### 4. Spring 2019 Full Stack Deep Learning Bootcamp  
 Video: https://fullstackdeeplearning.com/march2019
 
+### 5. Deep Generative Models 
+Stanford university materials: https://deepgenerativemodels.github.io/  
+
 
